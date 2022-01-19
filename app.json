@@ -1,0 +1,29 @@
+{
+  "id": "ff834221-1e44-445a-a8ae-996ceb50a40b",
+  "name": "Report Excel Export",
+  "publisher": "Pied Piper Inc.",
+  "brief": "This is a code sample to Export Data to Excel from #msdyn365bc using report.",
+  "version": "1.0.0.0",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50120,
+      "to": 50129
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}

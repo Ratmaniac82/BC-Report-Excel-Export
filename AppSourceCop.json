@@ -1,0 +1,5 @@
+{
+    "mandatoryAffixes": ["PPI"],
+    "mandatoryPrefix": "PPI",
+    "supportedCountries": ["IT"]
+}
